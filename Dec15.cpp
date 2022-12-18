@@ -1,11 +1,11 @@
 /*
-    Problem Statement: You are given the price of a product of n days.
-    You can do K transactions & transaction should not overlap (If you buy the product ,you have
-    to sell it before buying it again). 
-    (a) Solve for k = 1
-    (b) Solve for k = 2
-    (c) Solve for any numer of transaction (k = inf)
+Links:
+(a) https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+(b) https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/
+(c) https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/discussion/
 */
+
+
 #include<bits/stdc++.h>
 using namespace std;
 vector<int>arr;
